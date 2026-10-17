@@ -1,0 +1,25 @@
+body
+    {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        padding-top: 80px;
+    }
+
+header
+    {
+        position: fixed;
+        top: 15px;
+        right: 15px;
+    }
+
+header a
+    {
+        margin: 5px;
+        color: black;
+        font-size: small;
+    }
+
+main
+    {
+        margin-top: 150px;
+    }   
